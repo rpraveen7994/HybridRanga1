@@ -7,5 +7,6 @@ public class v3 {
 	@Test
 	public void t30() {
 		Assert.assertTrue(true);
+		//just added
 	}
 }
